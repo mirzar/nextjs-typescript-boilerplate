@@ -2,10 +2,10 @@
 
 ## Tech Stack
 
-1. [NextJS](https://nextjs.org/) v^10.1.3
-2. [ReactJs](https://reactjs.org/) v16.8.6
-3. [Typescript](https://www.typescriptlang.org/) v3.8.2
-4. [StyledComponents](https://styled-components.com/) v5.0.1
+1. [NextJS](https://nextjs.org/)
+2. [ReactJs](https://reactjs.org/)
+3. [Typescript](https://www.typescriptlang.org/)
+4. [StyledComponents](https://styled-components.com/)
 5. [Yarn Package Manager](https://yarnpkg.com/)
 
 ## Development
